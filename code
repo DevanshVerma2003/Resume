@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <div>
+        <div>
+            <h1>Devansh Verma</h1>
+            <p>Contact: <a href="mailto: dm0604@srmist.edu.in">dm0604@srmist.edu.in</a></p>
+            <p>Profile:  <a href="https://www.linkedin.com/in/devansh-verma-822a20166/">https://www.linkedin.com/in/devansh-verma-822a20166/</a></p>
+            <p>GitHub:  <a href="https://github.com/DevanshVerma2003">https://github.com/DevanshVerma2003</a></p>
+
+        </div>
+
+        <table>
+            <tr>
+                <td><img src="dp.jpg" alt="Display Picture" height="170p" width="130"></td>
+                <td><p>A programming enthusiast with keen interest in developing android and web apps. Currently i am proefficiently writing programs using Java/C++ and learning Data Structures and Algorithms for compelx problem solving skills. In the coming months i will be learning html , css and javascript and related frameworks such as react.js , node.js and express.js to be a full stack developer. 
+
+                    The field of software engineering and computer science is a fast paced , always-evolving industry that pushes me to always be updated and learn new technologies. 
+                    
+                    At the moment i am not exceptionally skilled but definately exceptionally willed to learn and grow.</p></td>
+            </tr>
+        </table>
+
+        <section>
+            <h2>Education</h2>
+            <ul>
+                <li>Bachaelor of technologoy Computer Science and Engieering, SRMIST Kattankulathur </li>
+                <li>Loyola High School, Patna</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Work Experience</h2>
+            <h3>Committee Head , AAruush SRM</h3>
+            October 2022 - Present
+            <ul>
+                <li>Worked towards learning and solving complex computer science problems</li>
+                <li>Hands on experience for conducting events related to coding and hacakthons</li>
+            </ul>
+            
+            <h3>Freelanced as Web Developer in tech startup PaySavvy</h3>
+            February 2023 - April 2023
+            <ul>
+                <li>Developed a responsive webpage referring the figma UI</li>
+                <li>Worked on Style sheets and front end developments</li>
+            </ul>
+
+            <h3>Committee Head , AAruush SRM</h3>
+
+        </section>
+
+        <section>
+            <h2>Skills</h2>
+            <ul>
+                <li>C++</li>
+                <li>Java</li>
+                <li>HTML</li>
+                <li>Data Structures and Algorithms</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+                <li>ReactJs</li>
+                <li>NodeJs</li>
+                <li>Database Management System</li>
+                <li>APIs and Rest APIs</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Achievements</h2>
+            <ul>
+                <li>Working on It</li>
+                <li>Working on it</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Projects</h2>
+            <ul>
+                <li>
+                    <h3>Gym Management System</h3>
+                    <p>Gym Management System - Developed a fully functional, organised and secured a Gym Management System caterig all needs like registeration , renewal of user and employee data.</p>
+                    <p>GitHub Link: <a href="https://github.com/DevanshVerma2003/Gym-Mangaement-System">https://github.com/DevanshVerma2003/Gym-Mangaement-System</a></p>
+                </li>
+                <li>
+                    <h3>Airline Management System</h3>
+                    <p>A full fledged Airline Management System which caters to the need of Booking , authentication and managing the traveler's Data in C++</p>
+                    <p>GitHub Link: <a href="https://github.com/DevanshVerma2003/Airline-Management-System/tree/main">https://github.com/DevanshVerma2003/Airline-Management-System/tree/main</a></p>
+                </li>
+            </ul>
+        </section>
+
+        <footer>
+            <p>&#169; 2023 Devansh Verma All Rights Reserved</p>
+        </footer>
+        
+    </div>
+    
+</body>
+</html>
